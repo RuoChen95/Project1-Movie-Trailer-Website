@@ -13,4 +13,6 @@ udacity:python的学习
   1. 获取文件名
   2. 重命名文件
   
-3. turtle
+3. drawing
+类的简单使用
+*不要将文件名命名为turtle
